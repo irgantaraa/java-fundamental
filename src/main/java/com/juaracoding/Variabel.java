@@ -1,7 +1,7 @@
 package com.juaracoding;
 
 
-public class Variable {
+public class Variabel {
 
     public static void main(String[] args) {
         //numeric
