@@ -1,4 +1,5 @@
 package com.juaracoding;
+
 import java.util.Scanner;
 
 public class challenge {

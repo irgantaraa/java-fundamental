@@ -32,6 +32,5 @@ public class Perulangan {
             }
             System.out.println();
         }
-
     }
 }
