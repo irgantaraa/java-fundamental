@@ -1,6 +1,6 @@
 # Java Fundamental
 
-![Java Logo](https://www.oracle.com/a/ocom/img/cw21/2021/10/javac-logo-4e8d6f67.jpg)
+![Java Logo](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png)
 
 Panduan ini berisi materi dasar tentang pemrograman Java, mencakup topik-topik penting seperti variabel, operator, percabangan, perulangan, array, metode, pemrograman berorientasi objek (OOP), dan koleksi.
 
